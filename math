@@ -18,6 +18,10 @@
                    color:red;
                    
 }
+#hi{
+    font-size:50px
+    color;blue;
+}
 </style>
 <body>
 <h1 id="h78"><u>5th Grade Math</u></h1>
@@ -37,7 +41,7 @@ So I did 43 X 78 and got 3354 inches. Then I divided that by 1/2 and got 1677 in
 <h1 class="the_cow_goes_woof"><u>Multiplying Fractions</u></h1>
 <center>
 <h3>Example Problem</h3>
-<h1>3/4 X 8/9</h1>
+<h1 id="hi">3/4 X 8/9</h1>
 </center>
 
 </center>
